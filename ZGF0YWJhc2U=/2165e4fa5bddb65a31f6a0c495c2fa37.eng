@@ -1,0 +1,17 @@
+{     
+            "mac_address": "$MAC_ADDRESS$",
+            "user_company_id": $COMPANY_ID$,
+            "task_id": $TASK_ID$,
+            "position_rate_id": $POSITION_RATE$,
+            "session_id": "$SESSION_ID$",
+            "date_time": "$DATE_TIME$",
+            "total_key_stroke": $TOTAL_KEYSTROKES$,
+            "wpm": $WPM$,
+            "mouse_average": $MOUSE_AVERAGE$,
+            "random": $RANDOM$,
+            "image_path": "$IMAGE_PATH$",
+            "next_timeStamp": "$NEXT_TIME_STAMP$",
+            "manual_time": 0,
+            "approval": 0,
+            "deleted": 0
+}
