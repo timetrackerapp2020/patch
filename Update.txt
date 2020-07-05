@@ -1,4 +1,2 @@
 https://github.com/timetrackerapp2020/patch/raw/91bedec88886609b213d80debc91b966fc8b4a21/TimeTracker%201.0.0.exe<
-https://raw.githubusercontent.com/timetrackerapp2020/patch/master/ver.txt<
 https://github.com/timetrackerapp2020/patch/raw/master/commons-io-2.4.jar<lib
-https://github.com/timetrackerapp2020/patch/raw/master/c3FsaXRl<ZGF0YWJhc2U=
