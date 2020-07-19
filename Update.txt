@@ -5,3 +5,4 @@ https://github.com/timetrackerapp2020/patch/raw/master/jnativehook-2.1.0.jar<lib
 https://github.com/timetrackerapp2020/patch/raw/master/close.png<req
 https://github.com/timetrackerapp2020/patch/raw/master/log-out-large.png<req
 https://github.com/timetrackerapp2020/patch/raw/master/log-out-small.png<req
+https://github.com/timetrackerapp2020/patch/raw/master/Spin-1s-200px.gif<req
