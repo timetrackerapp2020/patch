@@ -6,3 +6,6 @@ https://github.com/timetrackerapp2020/patch/raw/master/close.png<req
 https://github.com/timetrackerapp2020/patch/raw/master/log-out-large.png<req
 https://github.com/timetrackerapp2020/patch/raw/master/log-out-small.png<req
 https://github.com/timetrackerapp2020/patch/raw/master/Spin-1s-200px.gif<req
+https://github.com/timetrackerapp2020/patch/raw/master/projectsdropdown.png<req
+https://github.com/timetrackerapp2020/patch/raw/master/yes_bt.png<req
+https://github.com/timetrackerapp2020/patch/raw/master/no_bt.png<req
