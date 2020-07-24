@@ -1,0 +1,24 @@
+TimeInPRO App
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempor dolor ante, non volutpat metus varius sit amet. 
+Aenean hendrerit fermentum mi, vel condimentum nunc dignissim nec. Integer a ligula in eros commodo rhoncus.
+Vestibulum sed cursus arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer nec laoreet urna. 
+Sed suscipit vehicula tristique. Vivamus ac dui nec mauris gravida tristique. Phasellus condimentum nec diam in aliquam.
+
+[Release date]August 25, 2020
+[Ver] 0.0.0
+
+[*]New features:
+	~Adding new task confirmation dialog
+	~Trapping/Checking for task that already exist
+	~Adding task filter
+	~Clicking 'Dashboard' button to view 'https://www.timeinpro.com/' web page
+ 
+[*]Changes/Fix:
+	~Font size from '10f' to '12f'
+	~Fixing splashscreen bugg before logging in
+	~New Task layout
+	~Changing 'session_id' format into company_id+session_id
+	~Fixing logs input wrong data stored in 'next_timeStamp' column
+	~Hiding task name and stopwatch if apps first run
+	~Set 'total_key_stroke' increment value from mouse clicks, numpad up/down and mouse wheel.
