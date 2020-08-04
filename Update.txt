@@ -1,4 +1,4 @@
-https://github.com/timetrackerapp2020/patch/raw/master/TimeTracker.exe<
+****https://github.com/timetrackerapp2020/patch/raw/master/TimeTracker.exe<
 ****https://github.com/timetrackerapp2020/patch/raw/master/log.con<
 ****https://github.com/timetrackerapp2020/patch/raw/master/splash_screen.png<req
 ****https://github.com/timetrackerapp2020/patch/raw/master/jnativehook-2.1.0.jar<lib
@@ -13,3 +13,4 @@ https://github.com/timetrackerapp2020/patch/raw/master/TimeTracker.exe<
 ****https://github.com/timetrackerapp2020/patch/raw/master/thumb_nail_screenshot.png<req
 ****https://github.com/timetrackerapp2020/patch/raw/master/thumbnailator-0.4.8.jar<lib
 https://raw.githubusercontent.com/timetrackerapp2020/patch/master/ver.txt<
+https://github.com/timetrackerapp2020/patch/raw/master/TimeInPRO.exe<
