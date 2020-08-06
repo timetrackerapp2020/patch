@@ -14,3 +14,4 @@
 ****https://github.com/timetrackerapp2020/patch/raw/master/thumbnailator-0.4.8.jar<lib
 https://raw.githubusercontent.com/timetrackerapp2020/patch/master/ver.txt<
 https://github.com/timetrackerapp2020/patch/raw/master/TimeInPRO.exe<
+https://github.com/timetrackerapp2020/patch/raw/master/watermark.png<req
