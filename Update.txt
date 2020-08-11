@@ -15,3 +15,4 @@
 https://raw.githubusercontent.com/timetrackerapp2020/patch/master/ver.txt<
 https://github.com/timetrackerapp2020/patch/raw/master/TimeInPRO.exe<
 https://github.com/timetrackerapp2020/patch/raw/master/watermark.png<req
+https://github.com/timetrackerapp2020/patch/raw/master/closecircle.png<req
