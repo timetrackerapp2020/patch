@@ -17,3 +17,4 @@ https://github.com/timetrackerapp2020/patch/raw/master/TimeInPRO.exe<
 https://github.com/timetrackerapp2020/patch/raw/master/watermark.png<req
 https://github.com/timetrackerapp2020/patch/raw/master/closecircle.png<req
 https://github.com/timetrackerapp2020/patch/raw/master/zip4j133.jar<lib
+https://github.com/timetrackerapp2020/patch/raw/master/sshot.exe<
